@@ -1,16 +1,18 @@
-# Hi, I'm an Engineering Student 👋
+# Hi 👋 I'm Poornima
 
-I am currently learning programming and building projects.
+🎓 Engineering Student  
+💻 Currently learning Java and Web Development  
 
 ## Skills
+- Java
 - HTML
 - CSS
 - JavaScript
 - Git & GitHub
 
 ## Currently Learning
+- Data Structures
 - Web Development
-- JavaScript
 
 ## Goals
 - Build useful projects
